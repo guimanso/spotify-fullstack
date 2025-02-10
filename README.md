@@ -1,1 +1,1 @@
-# spotify-fullstack
+# Réplica do Spotify
